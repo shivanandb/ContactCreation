@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88422" started-at="2018-07-07T14:43:48Z" finished-at="2018-07-07T14:45:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88422" started-at="2018-07-07T14:43:48Z" finished-at="2018-07-07T14:45:17Z">
+      <class name="com.testersconnect.tests.SmokeTest">
+        <test-method status="PASS" signature="beginTest()[pri:0, instance:com.testersconnect.tests.SmokeTest@17dd107]" name="beginTest" is-config="true" duration-ms="45499" started-at="2018-07-07T14:43:48Z" finished-at="2018-07-07T14:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beginTest -->
+        <test-method status="PASS" signature="verify_hs_login()[pri:1, instance:com.testersconnect.tests.SmokeTest@17dd107]" name="verify_hs_login" duration-ms="42829" started-at="2018-07-07T14:44:34Z" description="Test the login functionality " finished-at="2018-07-07T14:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_hs_login -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.testersconnect.tests.SmokeTest@17dd107]" name="endTest" is-config="true" duration-ms="0" started-at="2018-07-07T14:45:17Z" finished-at="2018-07-07T14:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.testersconnect.tests.SmokeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
